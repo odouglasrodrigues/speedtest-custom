@@ -38,8 +38,7 @@ $ip = $_SERVER['REMOTE_ADDR'];
 }
 
 .logo {
-  width: 50px;
-  height: 50px;
+  width: 110px;
 }
 
 .TextodaLogo {
@@ -89,11 +88,7 @@ $ip = $_SERVER['REMOTE_ADDR'];
 <div class="text-developed" style="margin-right: 7px;">Desenvolvido por:</div>
 <a href="https://tripleplay.network" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
 <div class="logoContainer">
-      <img class="logo" src="logotp.png" alt="LogoTP">
-      <div class="TextodaLogo">
-        <div class="logoText">Triple Play</div>
-        <div class="logoText" style="margin-top: -2px;">Network</div>
-      </div>
+      <img class="logo" src="logotp.png" alt="TriplePlay Network">
 </div>
 </a>
 </div>
